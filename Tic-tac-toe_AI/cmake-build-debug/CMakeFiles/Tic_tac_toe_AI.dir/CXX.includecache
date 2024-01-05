@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/quinntempleton/CLionProjects/Tic-tac-toe_AI/main.cpp
+iostream
+-
+algorithm
+-
+unordered_map
+-
+list
+-
+
